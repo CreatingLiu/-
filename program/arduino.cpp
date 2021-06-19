@@ -23,7 +23,7 @@
 #define MODE_COLOUR 0x01
 #define MODE_MIC   0x02
 
-unsigned char pid[] = {"g2kypenftkitli6z"};
+unsigned char pid[] = {"<replace to your pid>"};
 unsigned char mcu_ver[] = {"1.0.0"};
 unsigned int led_light = 8;
 #define COLOR_NUMS 7
