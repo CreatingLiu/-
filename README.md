@@ -1,5 +1,7 @@
 # 炫彩灯带——涂鸦Arduino开发实战营
 
+项目介绍视频：https://www.bilibili.com/video/BV1rK4y1u7BZ/
+
 This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.
 
 For more information, please check [Tuya Developer Website](https://developer.tuya.com/).
